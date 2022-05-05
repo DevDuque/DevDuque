@@ -2,7 +2,7 @@
 - 👀 I’m interested in become a fullstack programmer
 - 🌱 I’m currently learning Fullstack Development
 - 💞️ I’m looking to collaborate on rocketseat support  
-- 📫 How to reach me... <b> Instagram: </b> @davih_duque <br>
+- 📫 How to reach me... <b> Instagram: </b> @duque.dg <br>
 </br> <b> Linkedin: </b> Davih(DxD)Duque
 
 <!---
