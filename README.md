@@ -1,11 +1,12 @@
-- 👋 Hi, I’m @DevDuque
-- 👀 I’m interested in become a fullstack programmer
-- 🌱 I’m currently learning Fullstack Development
-- 💞️ I’m looking to collaborate on rocketseat support  
-- 📫 How to reach me... <b> Instagram: </b> @duque.dg <br>
-</br> <b> Linkedin: </b> Davih(DxD)Duque
+<div id="header" align="center">
+  <img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100">
+</div>
 
-<!---
-DevDuque/DevDuque is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div id="badges">
+  <a href="https://www.linkedin.com/in/davih-duque-787b901a4/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="davihduque8@gmail.com">
+    <img src="https://img.shields.io/badge/Outlook-blue?style=for-the-badge&logo=&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
