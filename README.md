@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100">
+  <img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed"href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">" width="100">
 </div>
 
 <div id="badges">
@@ -7,6 +7,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="davihduque8@gmail.com">
-    <img src="https://img.shields.io/badge/Outlook-blue?style=for-the-badge&logo=&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Outlook-blue?style=for-the-badge&logo=outlook&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
