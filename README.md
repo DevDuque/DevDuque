@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed"href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">" width="100">
+  <img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed">
 </div>
 
 <div id="badges">
