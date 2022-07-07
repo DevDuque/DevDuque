@@ -2,15 +2,6 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="auto"/>
 </div>
 
-<div id="badges" aling-items="center">
-  <a href="https://www.linkedin.com/in/davih-duque-787b901a4/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.instagram.com/devduque/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-</div>
-
 <h1 align="center">Hi 👋, I'm DevDuque</h1>
 <h3 align="center">A passionate student from Brazil</h3>
 
