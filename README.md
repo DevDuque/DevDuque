@@ -16,11 +16,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devduque&label=Profile%20views&color=0e75b6&style=flat" alt="devduque" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devduque" alt="devduque" /></a> </p>
-
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 💬 Ask me about **typescript,**
+- 💬 Ask me about **Everything**
 
 - 📫 How to reach me **davihduque8@gmail.com**
 
