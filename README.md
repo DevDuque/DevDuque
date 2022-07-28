@@ -7,8 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devduque&label=Profile%20views&color=0e75b6&style=flat" alt="devduque" /> </p>
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DevDuque&theme=blue-green)
-
 - 🌱 I’m currently learning **Full Stack Development**
 
 - 💬 Ask me about **Everything**
