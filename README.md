@@ -15,8 +15,7 @@
 
 - ⚡ Fun fact **A developer in development**
 
-- 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api) 
+- 😂 Here is a random joke that'll make you laugh!![Jokes Card](https://readme-jokes.vercel.app/api) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
