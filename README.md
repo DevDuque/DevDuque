@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm DevDuque</h1>
-<h3 align="center">A passionate student from Brazil</h3>
+<h3 align="center">A developer in development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devduque&label=Profile%20views&color=0e75b6&style=flat" alt="devduque" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **davihduque8@gmail.com**
 
-- ⚡ Fun fact **A developer in development** 
+- ⚡ Fun fact **The first computer “bug” was an actual real-life bug** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
