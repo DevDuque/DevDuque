@@ -1,9 +1,6 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/zgduo4kWRRDVK/giphy.gif" width="auto" height="auto"/>
-</div>
-
 <h1 align="center">Hi 👋, I'm DevDuque</h1>
 <h3 align="center">A developer in development</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devduque&label=Profile%20views&color=0e75b6&style=flat" alt="devduque" /> </p>
 
@@ -24,5 +21,5 @@
 <h3 align="left">Languages and Tools:</h3>
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
+[Config for VSCode](https://vscode.dev/editor/profile/github/efb41c508fec6614f2ee241be6b6beac)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devduque&show_icons=true&locale=en" alt="devduque" /></p>
-
