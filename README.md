@@ -13,14 +13,21 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/davihgduque/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="devduque" /></a>
 <a href="https://instagram.com/devduque" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="devduque" /></a>
+<a href="devgduque@gmail.com" target="blank"> <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="devduque" /> </a>
 </p>
 
 <h3 align="left">Languages:</h3>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,prisma,nodejs,java" />
-    <h3 align="left">Tools:</h3>
-    <img src="https://skillicons.dev/icons?i=figma,vscode,postman" />
+
+<h4> Front End:</h4>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue" />
     
-   <h3 align="left">Tools:</h3>
-   <img src="https://skillicons.dev/icons?i=linux,windows," />
+<h4> Back End:</h4>
+<img src="https://skillicons.dev/icons?i=prisma,nodejs,java" />
+    
+<h3 align="left">Tools:</h3>
+<img src="https://skillicons.dev/icons?i=figma,vscode,postman,github" />
+    
+<h3 align="left">Operating System:</h3>
+<img src="https://skillicons.dev/icons?i=linux,windows," />
     
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devduque&show_icons=true&locale=en" alt="devduque" /></p>
