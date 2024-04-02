@@ -19,13 +19,13 @@
 <h3 align="left">Languages:</h3>
 
 <h4> Front End:</h4>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
     
 <h4> Back End:</h4>
-<img src="https://skillicons.dev/icons?i=prisma,nodejs,java" />
+<img src="https://skillicons.dev/icons?i=prisma,nodejs,java,mysql,sqlite" />
     
 <h3 align="left">Tools:</h3>
-<img src="https://skillicons.dev/icons?i=figma,vscode,postman,github" />
+<img src="https://skillicons.dev/icons?i=figma,vscode,idea,postman,github," />
     
 <h3 align="left">Operating System:</h3>
 <img src="https://skillicons.dev/icons?i=linux,windows," />
