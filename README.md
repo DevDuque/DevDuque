@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm DevDuque</h1>
 <h3 align="center">A developer in development</h3>
 
-<h4 align="center"> <img src="Tech.png" alt="DevDuque"/> </h4>
+<h4 align="center"> <img src="Tech.png" alt="DevDuque" width="800"/> </h4>
 
 - 🌱 I’m currently learning **Full Stack Development**
 
