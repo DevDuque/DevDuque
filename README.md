@@ -31,5 +31,6 @@
     
 <h3 align="left">Operating System:</h3>
 <img src="https://skillicons.dev/icons?i=linux,windows," />
-    
+
+<h3 align="left">Operating System:</h3> 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devduque&show_icons=true&locale=en" alt="devduque" /></p>
