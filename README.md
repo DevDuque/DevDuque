@@ -25,11 +25,12 @@
     
 <h4> Back End:</h4>
 <img src="https://skillicons.dev/icons?i=prisma,nodejs,java,mysql,sqlite" />
+
+<h4> Mobile:</h4>
+<img src="https://skillicons.dev/icons?i=swift,java,htmx" />
     
 <h3 align="left">Tools:</h3>
-<img src="https://skillicons.dev/icons?i=figma,vscode,idea,postman,github," />
+<img src="https://skillicons.dev/icons?i=figma,vscode,idea,androidstudio,postman,github," />
     
 <h3 align="left">Operating System:</h3>
 <img src="https://skillicons.dev/icons?i=linux,windows," />
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devduque&show_icons=true&locale=en" alt="devduque" /></p>
