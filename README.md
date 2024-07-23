@@ -21,10 +21,10 @@
 <h3 align="left">Languages:</h3>
 
 <h4> Front End:</h4>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue" />
     
 <h4> Back End:</h4>
-<img src="https://skillicons.dev/icons?i=prisma,nodejs,java,mysql,sqlite" />
+<img src="https://skillicons.dev/icons?i=prisma,nodejs,java,php,mysql,sqlite" />
 
 <h4> Mobile:</h4>
 <img src="https://skillicons.dev/icons?i=swift,java,htmx" />
