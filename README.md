@@ -3,14 +3,6 @@
 
 <h4 align="center"> <img src="profile.png" alt="DevDuque" width="800"/> </h4>
 
-- 🌱 I’m currently learning **Full Stack Development**
-
-- 💬 Ask me about **Everything**
-
-- 💼 How to reach me **devgduque@gmail.com**
-
-- ⚡ Fun fact **The first computer “bug” was an actual real-life bug** 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/davihgduque/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="devduque" /></a>
@@ -24,13 +16,13 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue" />
     
 <h4> Back End:</h4>
-<img src="https://skillicons.dev/icons?i=prisma,nodejs,java,php,mysql,sqlite" />
+<img src="https://skillicons.dev/icons?i=prisma,nodejs,php,mysql,sqlite" />
 
 <h4> Mobile:</h4>
-<img src="https://skillicons.dev/icons?i=swift,java,htmx" />
+<img src="https://skillicons.dev/icons?i=react," />
     
 <h3 align="left">Tools:</h3>
-<img src="https://skillicons.dev/icons?i=figma,vscode,idea,androidstudio,postman,github," />
+<img src="https://skillicons.dev/icons?i=figma,vscode,idea,androidstudio,postman," />
     
 <h3 align="left">Operating System:</h3>
 <img src="https://skillicons.dev/icons?i=linux,windows," />
